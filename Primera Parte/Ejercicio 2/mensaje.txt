@@ -1,0 +1,3 @@
+ALERTA: La estacion espacial necesita asistencia.
+Coordenadas: 25 grados norte, 40 grados este.
+Solicitamos respuesta inmediata.

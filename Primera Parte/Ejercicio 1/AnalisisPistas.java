@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class AnalisisPistas {
     public static void main(String[] args) {
-        String nombreArchivo = "pistas.txt";
+        String nombreArchivo = "Primera Parte\\Ejercicio 1\\pistas.txt";
         int contador = 0;
       
         try (BufferedReader br = new BufferedReader(new FileReader(nombreArchivo))) {

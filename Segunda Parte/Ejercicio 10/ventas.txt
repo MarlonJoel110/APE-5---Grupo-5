@@ -1,0 +1,3 @@
+Pan,1.6
+Sanduche,2.5
+Cafe,3.45

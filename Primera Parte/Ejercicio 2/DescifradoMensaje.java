@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class DescifradoMensaje {
     public static void main(String[] args) {
-        String nombreArchivo = "mensaje.txt";
+        String nombreArchivo = "Primera Parte\\Ejercicio 2\\mensaje.txt";
         int contadorCaracteres = 0;
         int valorCaracter;
 
